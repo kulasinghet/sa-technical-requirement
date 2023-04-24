@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Spring Boot with Me (1)",
     description:
       "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://medium.com/@kulasinghet/spring-boot-with-me-1-2022d6503c9f",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Mobile Development Hackathon",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Seizing Opportunities: My Journey of Personal Growth Through Mobile Development Hackathons",
+    url: "https://medium.com/@kulasinghet/seizing-opportunities-my-journey-of-personal-growth-through-mobile-development-hackathons-fd0598b2c91f",
   },
   {
-    title: "My Resume Site",
+    title: "How to Connect to a Database in ASP.NET Core using Entity Framework Core",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "n this article, we will go through the steps to connect to a SQL Server database in an ASP.NET Core application. ",
+    url: "https://medium.com/@kulasinghet/how-to-connect-to-a-database-in-asp-net-core-using-entity-framework-core-a11b291d0e0d",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "How Overcoming Procrastination Led Me to Achieve My Dream of Becoming a Microsoft Learn Student Ambassador",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "As a student, I always dreamed of being part of the Microsoft Learn Student Ambassador Program, but I kept delaying the application process. I told myself I would apply next year, and then the year after that, and soon three years had passed, and I still hadn\’t taken any action.",
+    url: "https://medium.com/@kulasinghet/how-overcoming-procrastination-led-me-to-achieve-my-dream-of-becoming-a-microsoft-learn-student-5ea9f42f12f7",
   },
 ];
 
